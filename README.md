@@ -1,4 +1,4 @@
-# MyFirstApp
+# angularSandbox_components
 
 Practicing creating Angular components both manually and by generation in the console.
 
